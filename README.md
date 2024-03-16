@@ -2,6 +2,10 @@
 
 This repository showcases a simple interactive webpage that demonstrates DOM manipulation using JavaScript. It features three buttons that allow users to increment, decrement, and clear a numerical value displayed on the page.
 
+## Demo
+
+You can check out the live demo [here](https://basic-counter-page.vercel.app/).
+
 ## Features
 - **Increase Button**: Clicking this button will increase the displayed value by 1.
 - **Decrease Button**: Clicking this button will decrease the displayed value by 1.
